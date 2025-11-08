@@ -1,3 +1,1 @@
-This is my git repo. 
-
-Add new changes/
+Rebase conflicts because of main changes.
